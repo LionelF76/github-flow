@@ -1,5 +1,8 @@
 body {
-  background-color: powderblue;
+  background-color:powderblue;
+  background-position:center center;
+  background-image:url(./images/pexels-photo-1040626.jpeg);
+  background-repeat:no-repeat;
 }
 h1 {
   color: blue;
